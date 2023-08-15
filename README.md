@@ -8,7 +8,7 @@
 
 * Demonstrate use of Aggregate Functions
 
-* Defined constraints in database
+* Uses DENSE_RANK() to assign a rank to each row within a partition or result set.
 
 * Concat() was performed to combine columns to create new columns
 
