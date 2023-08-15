@@ -22,11 +22,16 @@ The task of this project is to create a database system that manages information
 
 
 [Phase One](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_One) 
+
 [Phase Two](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Two) 
+
 [Phase Three](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Three) 
+
 [Phase Four](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Four) 
 
-Runtime: https://wegotthiscovered.com/movies/every-marvel-cinematic-universe-movie-ranked-by-runtime/
-Disney plus shows: https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_television_series
-DP Runtime: https://www.imdb.com/list/ls049015521/
+[Runtime](https://wegotthiscovered.com/movies/every-marvel-cinematic-universe-movie-ranked-by-runtime/)
+
+[Disney Plus](https://en.wikipedia.org/wiki/List_of_Marvel_Cinematic_Universe_television_series)
+
+[Disney Runtime](https://www.imdb.com/list/ls049015521/)
 
