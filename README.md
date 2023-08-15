@@ -19,9 +19,9 @@ The task of this project is to create a database system that manages information
 * Created View and uses conditionals (CASE statement) to return values when conditions are met
 
 
+## References:
 
-
-[Phase One](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_One) 
+[Phase One](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_One)
 
 [Phase Two](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe:_Phase_Two) 
 
